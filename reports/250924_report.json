@@ -1,0 +1,30 @@
+[
+  {
+    "log_id": "empty-log",
+    "file_path": "./test_logs/empty.log",
+    "status": "OK",
+    "message": "Analyse terminée avec succès.",
+    "error_details": ""
+  },
+  {
+    "log_id": "corrupted-log",
+    "file_path": "./test_logs/corrupted.log",
+    "status": "OK",
+    "message": "Analyse terminée avec succès.",
+    "error_details": ""
+  },
+  {
+    "log_id": "access-log",
+    "file_path": "./test_logs/access.log",
+    "status": "OK",
+    "message": "Analyse terminée avec succès.",
+    "error_details": ""
+  },
+  {
+    "log_id": "errors-log",
+    "file_path": "./test_logs/errors.log",
+    "status": "OK",
+    "message": "Analyse terminée avec succès.",
+    "error_details": ""
+  }
+]

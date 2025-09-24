@@ -1,0 +1,12 @@
+[
+  {
+    "id": "web-server-1",
+    "path": "./examples/sample.log",
+    "type": "nginx-access"
+  },
+  {
+    "id": "invalid-path",
+    "path": "./examples/does-not-exist.log",
+    "type": "custom-app"
+  }
+]
